@@ -1,1 +1,3 @@
-Repositório criado para aulas de imersão profissional
+Repositório criado para aulas de imersão profissional.
+
+Unicesumar - 2024
